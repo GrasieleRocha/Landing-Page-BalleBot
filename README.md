@@ -12,7 +12,7 @@ Orientado por Rafaela Ballerini.
 HTML <br>
 CSS
 
-## 🚀 Aprendizagem
+## 🚀 Aprendizagem..
 
 Através deste, puder aprender mais sobre html e css de forma prática, foi um dos primeiros contatos com essas linguagens, foi enriquecedor.
 
